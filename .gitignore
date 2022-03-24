@@ -1,0 +1,13 @@
+*.suo
+*.user
+.vs/
+*.lock.json
+developer/
+launch.json
+launchSettings.json
+
+binaries/
+[Dd]ebug*/
+[Rr]elease/
+build/
+*/obj/*
